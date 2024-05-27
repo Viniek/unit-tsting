@@ -1,0 +1,16 @@
+{
+  "type": "commonjs",
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "main": "fizz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
